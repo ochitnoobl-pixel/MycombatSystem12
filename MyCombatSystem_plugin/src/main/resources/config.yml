@@ -1,0 +1,13 @@
+# MyCombatSystem configuration
+sword:
+  crit_multiplier: 1.5
+  inactivity_time: 10 # seconds before crit mode expires without swinging
+axe:
+  stun_time: 2 # seconds
+bow:
+  damage_multiplier: 2.0
+  buff_duration: 3 # seconds
+  speed_level: 3
+  strength_level: 2
+general:
+  combo_reset_on_miss_ms: 200

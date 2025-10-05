@@ -1,0 +1,6 @@
+name: MyCombatSystem
+main: me.yourname.customabilities.CustomAbilities
+version: 1.0
+api-version: 1.21
+author: yourname
+description: MyCombatSystem - custom weapon abilities: sword crit mode, axe stun, bow power shot.
